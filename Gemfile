@@ -37,6 +37,12 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 # gem 'capistrano-rails', group: :development
 gem 'rails-ujs', '~> 0.1.0'
 
+gem 'will_paginate', '~> 3.1', '>= 3.1.6'
+
+gem 'bootstrap-will_paginate', '~> 1.0'
+
+gem 'faker', '~> 1.8', '>= 1.8.4'
+
 gem 'bcrypt' , '3.1.11'
 
 group :development, :test do
