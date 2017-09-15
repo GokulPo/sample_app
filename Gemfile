@@ -43,6 +43,12 @@ gem 'bootstrap-will_paginate', '~> 1.0'
 
 gem 'faker', '~> 1.8', '>= 1.8.4'
 
+gem 'carrierwave', '~> 1.1'
+
+gem 'mini_magick', '~> 4.8'
+
+gem 'fog', '~> 1.41'
+
 gem 'bcrypt' , '3.1.11'
 
 group :development, :test do
